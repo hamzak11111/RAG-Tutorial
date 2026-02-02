@@ -4,3 +4,7 @@ transformers
 sentence-transformers
 langchain
 langchain-huggingface
+pillow
+matplotlib
+torch
+torchvision
